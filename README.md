@@ -9,6 +9,7 @@
 | Personal Access Token Disclosure via GitHub | High | Reported January 9, 2023 4:43pm |
 | Open Redirect | Low | Reported January 14, 2023 10:30am |
 | Reflected XSS | Low | Reported February 1, 2023 1:48pm |
+| Reflected XSS | Low | Reported February 1, 2023 2:23pm |
 <!---
 JoshMorrison99/JoshMorrison99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
