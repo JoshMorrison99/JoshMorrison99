@@ -10,6 +10,7 @@
 | Open Redirect | Low | Reported January 14, 2023 10:30am |
 | Reflected XSS | Low | Reported February 1, 2023 1:48pm |
 | Reflected XSS | Low | Reported February 1, 2023 2:23pm |
+| DOM-Based XSS | Low | eported February 10, 2023 2:54pm |
 <!---
 JoshMorrison99/JoshMorrison99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
