@@ -13,6 +13,7 @@
 | DOM-Based XSS | Medium | Reported February 10, 2023 2:54pm |
 | Reflected XSS | Medium | Reported March 7, 2023 6:30pm |
 | Reflected XSS | Medium | Reported February 28, 2026 12:07pm |
+| Reflected XSS | Medium | Reported March 1, 2026 9:46am |
 <!---
 JoshMorrison99/JoshMorrison99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
